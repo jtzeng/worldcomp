@@ -1,5 +1,7 @@
-# 💀 worldcomp
+# worldcomp ☠
 TeamSpeak 3 world aggregator for Wilderness Warbands using the TS3 ServerQuery interface.
+
+Build with Gradle and Java 8. The TS3 library by TheHolyWaffle is provided in ./lib/ because the only repo version on jcenter is an outdated fork.
 
 Config
 ------
